@@ -2,6 +2,7 @@ import './App.css';
 
 import Santhanam from './Component/Santhanam';
 import Vadivelu from './Component/Vadivelu';
+import Kamal from './component/Kamal';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       vanakam da maple
       <Vadivelu/>
       <Santhanam />
+      <Kamal/>
       </header>
     </div>
   );
